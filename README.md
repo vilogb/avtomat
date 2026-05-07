@@ -39,9 +39,12 @@
     **Конечные состояния** отсутствуют — это автомат непрерывного действия, он работает на протяжении всей игры.
 
 ## 2. Таблица переходов и выходов
+<img width="692" height="557" alt="image" src="https://github.com/user-attachments/assets/9f1749f8-9ee5-401b-bbc6-8ab40e8c9e29" />
 
 
 ## 3. Графическая схема (диаграмма состояний)
+<img width="688" height="314" alt="image" src="https://github.com/user-attachments/assets/20b1e88c-4e49-41cb-b0db-6bfe70e12b55" />
+
 
 
 
